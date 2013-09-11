@@ -9,10 +9,10 @@ What This Plugin Does
 This plugin is supposed to control the terrain for my game. It's supposed to work a bit like terraria or worms, except that it uses a quadtree to store data.
 
 I'm going to list some intended features here:
-1.  I actually have a renderring quadtree, yay!
-2.  The current JSON Web Storage format is too big and needs to be reduced. Try IndexedDB. 
-3.  I need to add support for multiple 'root' nodes controlled by a single object. 
-4.  I need to add a system that will allow for loading and unloading of roots so I can have an "infinite" map.  
+- I actually have a renderring quadtree, yay!
+- The current JSON Web Storage format is too big and needs to be reduced. Try IndexedDB. 
+- I need to add support for multiple 'root' nodes controlled by a single object. 
+- I need to add a system that will allow for loading and unloading of roots so I can have an "infinite" map.  
 
 ### Important Notes
 
